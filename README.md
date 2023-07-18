@@ -17,7 +17,7 @@ The goal of this workshop to practice the state handling and state sharing betwe
 ## Tasks
 
 - Do the tasks one by one.
-- If you get stucked, check the background material's links
+- If you get stuck, check the background material's links
 
 - components
 
@@ -54,7 +54,7 @@ Create a `DiceRoller` component with a button, it should generate a random numbe
 
 - [ ] A separate `DiceRoller` component should be created.
 - [ ] A button must be rendered by the `DiceRoller` component.
-- [ ] A prop should be existed on the component to handle the `onRoll` "event".
+- [ ] A prop should be given to the component to handle the `onRoll` "event".
 - [ ] If a button is clicked, the prop should be called, and passed a random number between 1-6 to the function.
 - [ ] The component must be included in the `App`.
 - [ ] The `App` must pass down a function to a `onRoll` event. 
